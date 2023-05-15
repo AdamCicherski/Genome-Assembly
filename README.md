@@ -17,5 +17,5 @@ Project is created with:
 To run this project type:
 
 ```
-$ python assembly reads.fasta output.fasta
+$ python assembly.py reads.fasta output.fasta
 ```
