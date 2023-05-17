@@ -40,4 +40,3 @@ Labels of vertices with a length greater than the input read size are appended t
 ### Scaffold Generation
 After the last iteration, the labels of vertices are returned as scaffolds. If there are too many scaffolds, a greedy heuristic is used to find paths with higher coverage, which are then utilized as scaffolds.
 
-This algorithm provides an overview of the steps involved in the process, and further details can be found within the implementation.
