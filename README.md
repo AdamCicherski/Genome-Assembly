@@ -3,18 +3,18 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Quick start](#Quick-start)
 
 ## General info
 This project is simple genome de Novo assembler based on de Brujin Graphs aproach
 	
 ## Technologies
 Project is created with:
-* Numba version xyz
-* Numpy version xyz
+* Numpy >=1.21.1
+* Numba >= 0.54.0
 	
-## Setup
-To run this project type:
+## Quick start
+To run genome assembler type:
 
 ```
 $ python assembly.py reads.fasta output.fasta
